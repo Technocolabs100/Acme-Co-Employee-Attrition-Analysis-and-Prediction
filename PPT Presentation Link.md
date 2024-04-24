@@ -1,7 +1,7 @@
-# Employe Attrition Analysis and Prediction 
+# **Employe Attrition Analysis and Prediction**
 
 
-### ***Click this  to view the PPT Presentation of this project :*** [PPT Presentation](https://drive.google.com/file/d/1bxiTfOGKK85ShkrAtT08aAx4XQeaNbdt/view?usp=sharing)
+## *👉 Click this link to view the PPT Presentation of this project :*   [[PPT Presentation](https://drive.google.com/file/d/1bxiTfOGKK85ShkrAtT08aAx4XQeaNbdt/view?usp=sharing)](https://drive.google.com/file/d/1bxiTfOGKK85ShkrAtT08aAx4XQeaNbdt/view?usp=sharing)
 
 
 
